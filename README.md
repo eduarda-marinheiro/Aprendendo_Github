@@ -1,2 +1,4 @@
 # Aprendendo_Github
-Primeiro Reposítorio do curso Git e Github
+Primeiro Repositório do curso Git e Github
+
+Criado durante a aula de Git e Github do Professor Guanabara
